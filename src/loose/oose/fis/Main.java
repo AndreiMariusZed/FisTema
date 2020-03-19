@@ -6,9 +6,10 @@ import loose.oose.fis.documents.XML;
 import loose.oose.fis.processors.Procesor;
 import loose.oose.fis.processors.ProcesorCautare;
 import loose.oose.fis.processors.ProcesorCompus;
+import Printare.Print;
 
 import java.util.ArrayList;
-
+import loose.oose.fis.processors.*;
 public class Main {
 
     public static void main(String[] args) {
